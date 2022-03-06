@@ -1,5 +1,8 @@
 # HmEditorFaqConverter
 
+![HmEditorFaqConverter v1.0.0](https://img.shields.io/badge/HmEditorFaqConverter-v1.0.0-6479ff.svg)
+[![CC0](https://img.shields.io/badge/license-CC0-blue.svg?style=flat)](LICENSE)
+
 h-tomさんがgithubにあげてるFAQファイル群を、utf8への変換ツール。  
 多重実行しても大丈夫。
 
