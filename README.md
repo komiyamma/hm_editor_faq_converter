@@ -10,3 +10,5 @@ h-tomさんがgithubにあげてるFAQファイル群を、utf8への変換ツ�
 
 *.htm 群と同じディレクトリに「HmEditorFaqConverter.exe」と「HtmlAgilityPack.dll」の２つを配置して実行。
 html群の中身はutf8に変更され、bodyタグの内側のタグだけにして、同じファイルへと上書き。
+
+https://github.com/h-tom/hidemaruEditor_faq
